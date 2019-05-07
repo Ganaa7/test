@@ -1,0 +1,23 @@
+{
+    "sEmptyTable":     "Хүснэгтэнд өгөгдөл алга",
+    "sInfo":           "_START_ -с _END_ хоорон дахь  нийт _TOTAL_ өгөгдөл",
+    "sInfoEmpty":      "0 өгөгдөлийн 0 -ээс  0 дахь өгөгдөлийг харуулж байна",
+    "sInfoFiltered":   "(_MAX_ өгөдлөөс total өгөгдөлийг шүүлээ)",
+    "sInfoPostFix":    "",
+    "sInfoThousands":  ",",
+    	"sLengthMenu":     "_MENU_ цэсний өгөгдөлийг харуулах",
+    "sLoadingRecords": "Татаж байна...",
+    "sProcessing":     "Боловсруулж байна...",
+    "sSearch":         "Хайлт:",
+    "sZeroRecords":    "Тохирох мэдээлэл олдсонгүй",
+    "oPaginate": {
+        "sFirst":    "Эхний",
+        "sLast":     "Сүүлийн",
+        "sNext":     "Дараачийн",
+        "sPrevious": "Өмнөх"
+    },
+    "oAria": {
+        "sSortAscending":  ": Баганыг өсөхөөр эрэмблэхийг идэвххжүүлэх",
+        "sSortDescending": ": Баганыг буурахаар эрэмблэхийг идэвххжүүлэх"
+    }
+}

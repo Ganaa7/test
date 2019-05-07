@@ -1,0 +1,31 @@
+.has-error .help-block,
+.has-error .control-label,
+.has-error .radio,
+.has-error .checkbox,
+.has-error .radio-inline,
+.has-error .checkbox-inline,
+.has-error label,
+.has-error.radio label,
+.has-error.checkbox label,
+.has-error.radio-inline label,
+.has-error.checkbox-inline label {
+  color: #E80E0C;
+}
+.has-error .form-control {
+  border-color: #E80E0C;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+}
+.has-error .form-control:focus {
+  border-color: #E80E0C;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 6px #E80E0C;
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 6px #E80E0C;
+}
+.has-error .input-group-addon {
+  color: #E80E0C;
+  background-color: #f2dede;
+  border-color: #E80E0C;
+}
+.has-error .form-control-feedback {
+  color: #E80E0C;
+}
